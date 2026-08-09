@@ -9,6 +9,7 @@
 - Yapı: `src/components/MapView.tsx` (harita), `src/lib/map.ts` (sabitler)
 - .gitignore, CLAUDE.md, architect.md
 - Build doğrulandı: `tsc -b && vite build` ✓
+- Git: ilk push yapıldı → github.com/kaanklcrsln/XGIS (remote SSH, main branch)
 
 ### Sıradaki (henüz istenmedi — ekleme yapma)
 - Yok. Katman paneli / state management / analiz araçları bilinçli olarak dışarıda.
